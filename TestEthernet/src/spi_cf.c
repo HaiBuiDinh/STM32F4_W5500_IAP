@@ -159,6 +159,7 @@ static void W5500_Network_Init(void)
 
 //Khoi tao cai dat lien quan toi W5500
 
+//aa
 void W5500_Init(void)
 {
 	W5500_SPI_Init();
