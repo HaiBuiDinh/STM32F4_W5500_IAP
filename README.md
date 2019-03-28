@@ -4,3 +4,4 @@ Ngày tạo:2/2019.
 Địa điểm: Phòng Vlab, Công ty 3S, tòa nhà Kim Ánh, ngõ 78 Duy Tân, Cầu Giấy.
 Mục đích: Update firmware cho ICU qua mạng lan hoặc internet sử dụng chip w5500.
 Tình trạng: Done.
+Sử dụng: tải firmware xuống bằng Hercules -> tab TCP Client.
